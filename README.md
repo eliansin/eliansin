@@ -1,65 +1,71 @@
-# 👋 Hi, I'm Elian
+# QA Tester - Manual & Automation
 
-## QA Tester | Manual Testing & Automation
+Self-taught QA tester focused on manual testing and automation using Cypress and Selenium.
 
-Self-taught QA tester focused on:
-
-* Manual Testing
-* Bug Reporting
-* UI Validation
-* Test Automation
-
-Currently improving my skills in Selenium, Cypress and automated web testing.
+I build experience through real-world testing scenarios, bug reproduction, and end-to-end automation practice on live websites.
 
 ---
 
-# 🧪 Skills
+## QA Focus
 
-* Manual Testing
-* Functional Testing
-* UI/UX Testing
-* Bug Documentation
-* Exploratory Testing
-* Automation Basics
-
----
-
-# ⚙️ Tools & Technologies
-
-* Selenium
-* Cypress
-* Git & GitHub
-* Chrome DevTools
-* VS Code
-* JavaScript (learning)
+- Manual Testing (functional, UI, exploratory)
+- Bug identification and reporting
+- Test case design and execution
+- UI validation and behavior verification
+- Automation testing (Cypress, Selenium)
 
 ---
 
-# 🚀 Featured Projects
+## Tools & Technologies
 
-## 📌 QA Practice
-
-Testing practice repository with manual and automation exercises.
-
-## 📌 Cypress Tests
-
-Automated web testing using Cypress.
-
-## 📌 Bug Reports
-
-Professional bug report examples with screenshots and reproduction steps.
+- Cypress
+- Selenium
+- JavaScript (basic / learning)
+- Git & GitHub
+- Chrome DevTools
+- VS Code
 
 ---
 
-# 🎯 Current Goals
+## Featured Work
 
-* Improve automation testing skills
-* Build real-world QA projects
-* Learn advanced testing workflows
-* Work as a freelance QA tester
+### Cypress Automation - UI Bug Reproduction
+
+End-to-end automated test reproducing a real UI issue in a property listing website.
+
+The test simulates rapid user interaction on an image slider, where the thumbnail gallery becomes unstable and temporarily loses visual consistency.
+
+- Automated navigation through a real website
+- Interaction stress testing (rapid clicks)
+- Detection of UI instability in image slider
+- Evidence captured via GIF
+
+Repository includes full Cypress test and reproduction steps.
 
 ---
 
-# 📫 Contact
+### Bug Reporting
 
-GitHub: https://github.com/eliansin
+Collection of structured bug reports including:
+
+- Reproduction steps
+- Expected vs actual behavior
+- Severity classification
+- Visual evidence (screenshots / GIFs)
+
+---
+
+## Current Learning Path
+
+- Improving Cypress automation skills
+- Expanding Selenium knowledge
+- Strengthening test design and debugging ability
+- Practicing real-world QA scenarios
+
+---
+
+## Languages
+
+- Spanish (native)
+- English (reading and writing proficiency)
+- Spoken English: basic, actively improving through practice
