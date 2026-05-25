@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Elian 👋
 
-<!--
-**eliansin/eliansin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Tester | Manual Testing & Automation
 
-Here are some ideas to get you started:
+I'm a self-taught QA tester focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Manual Testing
+* Bug Reporting
+* UI/UX Validation
+* Test Automation
+
+### Currently learning
+
+* Selenium
+* Cypress
+* JavaScript
+* Automated Web Testing
+
+### Tools & Technologies
+
+* Selenium
+* Cypress
+* Git & GitHub
+* Chrome DevTools
+* VS Code
+
+### Goals
+
+Improve my automation skills and work on real-world QA projects while growing as a tester.
+
+## Projects
+
+Coming soon 🚀
